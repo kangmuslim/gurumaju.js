@@ -1,0 +1,2 @@
+# gurumaju.js
+gurumaju
